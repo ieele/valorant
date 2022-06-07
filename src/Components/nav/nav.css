@@ -1,0 +1,19 @@
+nav{
+    padding: 20px 80px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: end;
+    list-style-type: none;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 0 30px;
+}
+
+nav li{
+    color: black;
+    font-size: 1.3rem;
+}

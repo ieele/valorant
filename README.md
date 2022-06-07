@@ -1,13 +1,5 @@
 -Project Idea- 
-
-Provide a basic guide for post plant lineups for agents with launchable projectiles.
--Viper
--Sova
--Brimstone
--Killjoy
--Raze
--Phoenix
-
+Provide interactive details about valorant characters, player percentage in each rank, and weapon info. 
 
 -Api-
 

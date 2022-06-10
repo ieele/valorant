@@ -1,0 +1,22 @@
+#charactersContainer{
+    padding: 20px;
+}
+
+#charactersContainer > h1{
+    font-size: 4.5rem;
+    margin-bottom: 20px;
+}
+
+.characters-list{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+}
+
+.characters-list div{
+    text-align: center;
+}
+
+.characters-list img{
+    width: 200px;
+}

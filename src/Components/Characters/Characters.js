@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import RenderCharacters from "../RenderCharacters/RenderCharacters";
+import RenderCharacters from "../Render-characters/RenderCharacters";
 
 const Characters = () => {
   const [agents, setAgents] = useState([]);
@@ -14,7 +14,6 @@ const Characters = () => {
     const newArray = character.data.filter(
       (char) => char.isPlayableCharacter === true
     );
-    console.log(newArray);
     setAgents(newArray);
   };
 
